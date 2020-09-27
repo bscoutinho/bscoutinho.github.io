@@ -10,9 +10,9 @@ Primary use:    MultiPurpose One Page Template
 
 @import "font-awesome.min.css";
 @import "simple-line-icons.css";
-@import url(http://fonts.googleapis.com/css?family=Raleway:300,400,700,800);
+/* @import url(http://fonts.googleapis.com/css?family=Raleway:300,400,700,800);
 @import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
-@import url(http://fonts.googleapis.com/css?family=Montserrat:700,400);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:700,400); */
 
 
 /*------------------------------------------------------------------
@@ -1227,7 +1227,7 @@ a.btn-mod:focus{
 }
 .hs-line-13{
     position: relative;
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: 800;
     line-height: 1;
 	text-transform: uppercase;
@@ -2332,7 +2332,6 @@ a.logo:hover{
 .section-heading{
 	margin: 0;
 	padding: 0;
-	font-family: "Libre Baskerville", "Times New Roman", Times, serif;
 	font-size: 16px;
 	font-style: italic;
 	font-weight: normal;
@@ -2836,14 +2835,13 @@ a.logo:hover{
 
 .team-item-name{
 	margin-bottom: 2px;
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 800;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
 .team-item-role{
 	margin-bottom: 5px;
-	font-family: "Libre Baskerville", "Times New Roman", Times, serif;
 	font-size: 13px;
 	font-style: italic;
 }
