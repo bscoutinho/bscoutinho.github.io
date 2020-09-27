@@ -3523,7 +3523,7 @@ a.logo:hover{
 	font-size: 12px;	
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: rgba(255,255,255, .2);
+	color: rgba(255,255,255, .9);
 }
 .image-color-bg .banner-decription{
 	color: #f0c3bf;
@@ -3943,7 +3943,7 @@ a.logo:hover{
 .contact-item{
     padding-right: 67px !important;
     position: relative;
-    color: rgba(255,255,255, .3);
+    color: rgba(255,255,255, .5);
     text-align: right;
     overflow: hidden;
     
@@ -3954,7 +3954,7 @@ a.logo:hover{
     transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
 }
 .contact-item a{
-    color: rgba(255,255,255, .3);
+    color: rgba(255,255,255, .5);
     text-decoration: none;    
 }
 .contact-item:hover,
@@ -3985,13 +3985,13 @@ a.logo:hover{
     letter-spacing: 1px;
 }
 .ci-phone{
-    font-size: 24px;
+    font-size: 16px;
     font-family: Montserrat, arial, sans-serif;
     font-weight: 400;
     line-height: 1.2;
 }
 .ci-text{
-    color: rgba(255,255,255, .3);
+    color: rgba(255,255,255, .5);
 }
 
 /*
